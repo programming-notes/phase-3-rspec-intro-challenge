@@ -11,7 +11,7 @@ We’ll be moving from driver code to testing with RSpec, the samurai sword of R
 Review the following documents.
 
 - [RSpec code example](./basic_rspec.md)
-- [RSpec terms and features](.rspec_overview.md)
+- [RSpec terms and features](./rspec_overview.md)
 
 Take a look at the official documentation.
 - [Relish RSpec docs](https://www.relishapp.com/rspec/)
